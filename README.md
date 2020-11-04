@@ -1,3 +1,0 @@
-# supergulp
-
-practice gulp
